@@ -1,0 +1,4 @@
+Data Structures and Algorithms | 2026-12-05 | hard | Arrays, Linked Lists, Stacks and Queues, Trees, Graphs, Sorting, Searching
+Database Management Systems | 2026-12-08 | medium | ER Model, Relational Model, SQL, Normalization, Transactions
+Operating Systems | 2026-12-12 | hard | Process Management, CPU Scheduling, Deadlocks, Memory Management, File Systems
+Computer Networks | 2026-12-16 | medium | OSI Model, TCP/IP, Routing, Transport Layer, Network Security
